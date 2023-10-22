@@ -1,6 +1,6 @@
 # python-challenges-solutions
 This repository stores my python solutions to programming challenges that I have found from various sources.
-Each file/folder contains my solution for a different problem.
+Each file/folder contains my solution for a different problem, and the descriptions for each problem are written at the top of the file or within its folder.
 
 ## Intended Usage and Restrictions
 This repository is intended for code visibility and reference purposes only. Users are allowed to:
